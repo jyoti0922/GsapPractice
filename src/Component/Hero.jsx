@@ -41,8 +41,8 @@ const Hero = () => {
       {
         scale: 1,
         opacity: 1,
-        duration: 3,
-        repeat: "Infinity",
+        duration: 2,
+        repeat: 20,
         yoyo: "true",
       }
     );
