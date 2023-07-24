@@ -86,7 +86,7 @@ const Hero = () => {
           obcaecati ipsa unde aut incidunt quaerat? Lorem ipsum dolor sit amet
           consectetur adipisicing elit. Consectetur atque asperiores,
           consequatur optio natus ipsa similique qui in architecto dolorem
-          tenetur hic quo modi accusamus laudantium vero magnam dicta quod.
+          tenetur hic quo modigit accusamus laudantium vero magnam dicta quod.
         </p>
       </div>
     </div>
